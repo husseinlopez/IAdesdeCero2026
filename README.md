@@ -22,8 +22,6 @@ El objetivo del curso es llevar a la persona participante desde los conceptos fu
 - **Dr. Irvin Hussein López Nava** — [hussein@cicese.edu.mx](mailto:hussein@cicese.edu.mx)
 - **M.C. Joan M. Raygoza Romero** — [jraygoza@cicese.edu.mx](mailto:jraygoza@cicese.edu.mx)
 
-Departamento de Ciencias de la Computación, CICESE.
-
 ---
 
 ## 🎯 Objetivos
@@ -55,34 +53,6 @@ Al finalizar el curso, la persona participante será capaz de:
 
 ---
 
-## 📂 Estructura del repositorio
-
-```
-curso-ia-desde-cero/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── requirements.txt
-├── sesiones/
-│   ├── 01-introduccion/
-│   ├── 02-manejo-de-datos/
-│   ├── 03-aprendizaje-automatico/
-│   ├── 04-manejo-de-imagenes/
-│   ├── 05-clasificacion-de-imagenes/
-│   ├── 06-manejo-de-texto/
-│   ├── 07-clasificacion-de-texto/
-│   ├── 08-integracion/
-│   ├── 09-aplicaciones-web/
-│   └── 10-despliegue/
-├── datos/           # Conjuntos de datos usados en las sesiones
-├── notebooks/       # Notebooks complementarios y ejercicios
-└── recursos/        # Lecturas, slides y material extra
-```
-
-Cada carpeta de sesión contiene su propio `README.md` con los objetivos específicos, los notebooks y los datos correspondientes.
-
----
-
 ## 🛠️ Requisitos previos
 
 - Conocimientos básicos de programación (no necesariamente en Python).
@@ -90,69 +60,6 @@ Cada carpeta de sesión contiene su propio `README.md` con los objetivos especí
 - Cuenta de Google (para usar **Google Colab**) **o** instalación local de Python ≥ 3.10.
 
 > No se requiere experiencia previa en IA ni en aprendizaje automático.
-
----
-
-## ⚙️ Cómo empezar
-
-### Opción 1 — Google Colab (recomendada)
-
-Cada notebook tiene un botón "Open in Colab" en la parte superior. Solo abre el notebook desde la carpeta de la sesión correspondiente y comienza a trabajar; no requiere instalación.
-
-### Opción 2 — Entorno local
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/<usuario>/curso-ia-desde-cero.git
-cd curso-ia-desde-cero
-
-# 2. Crear y activar un entorno virtual
-python -m venv .venv
-source .venv/bin/activate        # macOS / Linux
-# .venv\Scripts\activate         # Windows
-
-# 3. Instalar dependencias
-pip install -r requirements.txt
-
-# 4. Iniciar Jupyter
-jupyter lab
-```
-
----
-
-## 📚 Contenido temático
-
-El curso sigue el orden conceptual:
-
-**IA → Aprendizaje Automático → Aprendizaje Profundo → IA Generativa**
-
-Y aborda, entre otros, los siguientes temas:
-
-- Diferencia entre IA, ML, DL e IA generativa.
-- IA débil vs. IA fuerte.
-- Tipos de aprendizaje: supervisado, no supervisado y por refuerzo.
-- Manejo de datos tabulares con `pandas` y `numpy`.
-- Modelos clásicos de ML con `scikit-learn`.
-- Procesamiento de imágenes con `OpenCV` / `Pillow` y clasificación con redes neuronales.
-- Procesamiento de texto y clasificación (NLP introductorio).
-- Construcción de una aplicación web con el modelo entrenado.
-- Despliegue de la aplicación en la nube.
-- Ética y riesgos del uso de IA.
-
----
-
-## 🧪 Líneas de investigación del LCDAA
-
-El curso forma parte de las actividades de difusión del Laboratorio de Ciencia de Datos y Aprendizaje Automático, cuyas líneas incluyen:
-
-- Clasificación de actividad y comportamiento humano
-- Detección temprana de somnolencia al conducir
-- Traducción automática de la Lengua de Señas Mexicana
-- Comportamiento no verbal en interacción humano-robot
-- Análisis de datos astronómicos
-- Análisis de publicaciones en redes sociales
-- Medición y análisis del comportamiento canino
-- Monitoreo automático de especies marinas
 
 ---
 
@@ -168,15 +75,6 @@ Si encuentras un error, una mejora posible o tienes una sugerencia:
 ## 📄 Licencia
 
 Este material se distribuye bajo la licencia [MIT](LICENSE), salvo cuando se indique lo contrario en archivos específicos. El material de imágenes, slides y datasets de terceros conserva su licencia original.
-
----
-
-## ✉️ Contacto
-
-¿Dudas o comentarios?
-
-- **Dr. Irvin Hussein López Nava** — [hussein@cicese.mx](mailto:hussein@cicese.mx)
-- **Educación Continua CICESE / Física Aplicada** — [cursosdfa@cicese.edu.mx](mailto:cursosdfa@cicese.edu.mx)
 
 ---
 
