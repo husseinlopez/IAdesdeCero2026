@@ -30,7 +30,7 @@ Departamento de Ciencias de la Computación, CICESE.
 
 Al finalizar el curso, la persona participante será capaz de:
 
-1. Comprender qué es la IA, qué la diferencia del aprendizaje automático y del aprendizaje profundo, y qué es la IA generativa.
+1. Comprender qué es la IA, la diferencia del aprendizaje automático y del aprendizaje profundo, y qué es la IA generativa.
 2. Manipular y explorar conjuntos de datos en Python.
 3. Entrenar y evaluar modelos clásicos de aprendizaje automático.
 4. Procesar imágenes y texto, y construir clasificadores para cada modalidad.
