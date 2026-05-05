@@ -19,8 +19,8 @@ El objetivo del curso es llevar a la persona participante desde los conceptos fu
 
 ## 👥 Instructores
 
-- **Dr. Irvin Hussein López Nava** — [hussein@cicese.mx](mailto:hussein@cicese.mx)
-- **M.C. Joan M. Raygoza Romero**
+- **Dr. Irvin Hussein López Nava** — [hussein@cicese.edu.mx](mailto:hussein@cicese.edu.mx)
+- **M.C. Joan M. Raygoza Romero** — [jraygoza@cicese.edu.mx](mailto:jraygoza@cicese.edu.mx)
 
 Departamento de Ciencias de la Computación, CICESE.
 
